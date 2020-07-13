@@ -1,6 +1,6 @@
 ## Hey Visitor!
 
-<p align="center">
+<p align="centre">
   <a href="https://twitter.com/I5H44N">
     <img align="left" alt="Twitter" width="22px" padding:"10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a> 
