@@ -5,9 +5,8 @@ I am a 3rd year Electronics & Communication Undergraduate at Birla Institute of 
 I also play the keyboard, which is totally irrelevant in any sense.
 
 ### Languages & Skills
-Languages  | Python | C++ | Arduino | R | Java | Apps-script
----        | ---    | --- | ---     | --- | ---  | ---
-Score on 5 | 4      | 3   | 4       | 2 | 2    | 2
+Python | C++ | Arduino | R | Java | Apps-script
+| ---    | --- | ---     | --- | ---  | ---
 ### Things I'm Working On
 
 ### Things I'm Learning
