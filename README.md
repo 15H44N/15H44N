@@ -5,6 +5,8 @@ I am a 3rd year Electronics & Communication Undergraduate at Birla Institute of 
 I also play the keyboard, which is totally irrelevant in any sense.
 
 ### Things I'm Working On
+
+<p align="centre">
 <a href="https://twitter.com/I5H44N">
     <img alt="Twitter" align="left" width="22px" padding:"10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -25,3 +27,4 @@ I also play the keyboard, which is totally irrelevant in any sense.
 <a href="https://www.linkedin.com/in/ishaan-aditya/">
     <img alt="LinkedIn" align="left" width="22px" padding:"50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+</p>
