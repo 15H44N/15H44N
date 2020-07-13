@@ -1,13 +1,14 @@
 ## Hey Visitor!
 
-<a href="https://twitter.com/I5H44N">
-  <img align="centre" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+<div style="text-align:center">
+  <a href="https://twitter.com/I5H44N">
+    <img align="centre" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
 
-<a href="https://instagram.com/adi.01">
-  <img align="centre" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
+  <a href="https://instagram.com/adi.01">
+    <img align="centre" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</div>
 
 
 
