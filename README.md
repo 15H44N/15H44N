@@ -16,16 +16,16 @@ Python | C++ | Arduino | R | Java | Apps-script
 * A few simple automation projects, such as collecting Data from out Institute's ERP automatically
 * EDA and Predicitive Analysis on Different Kaggle Datasets
 * Music Attribute Analysis on Audio Signals using GTZAN Dataset.
-* NLP: Basic Sentiment Analysis on Tweets.
 * Barebones Attendance Tracking System using Google Sheets, Forms and Apps-Script
 
 ### Things I'm Learning
 * Deep Learning Modelling using Tensorflow (for now)
 * Business Analytics and Modelling
 * Algorithms in CPP & Python
+* NLP: Basic Sentiment Analysis on Tweets.
 * Classifiers and Reccomender Systems Built around Deep Belief Networks.
 
-### Say Hi
+### Say Hello
 <p align="centre">
 <a href="https://twitter.com/I5H44N">
     <img alt="Twitter" align="left" width="22px" padding:"10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
