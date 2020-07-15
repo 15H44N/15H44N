@@ -1,7 +1,7 @@
 ## Hey Visitor!
 
 ### About Me
-I am a 3rd year Electronics & Communication Undergraduate at Birla Institute of Technology Mesra.  
+I'm an Electronics & Communication Undergraduate at Birla Institute of Technology Mesra.  
 I play the keyboard, which is totally irrelevant in any sense.  
 I also like to spend wayyy to much time automating random stuff, which is just fun really. 
 
