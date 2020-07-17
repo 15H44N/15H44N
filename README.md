@@ -6,8 +6,8 @@ I play the keyboard, which is totally irrelevant in any sense.
 I also like to spend wayyy to much time automating random stuff, which is just fun really. 
 
 ### Languages & Skills
-Python | C++ | Arduino | R | Java | Apps-script
-| ---    | --- | ---     | --- | ---  | ---
+Python | C++ | Arduino | Apps-script
+| ---    | --- |  ---  | ---
 
 | Classification 	| Deep Learning 	| Music Analysis 	| DataViz 	| IoT Data Collection 	|
 |----------------	|---------------	|----------------	|---------	|---------------------	|
