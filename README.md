@@ -30,10 +30,6 @@ Python | C++ | Arduino | Apps-script
 <a href="https://twitter.com/I5H44N">
     <img alt="Twitter" align="left" width="22px" padding:"10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://instagram.com/adi.01">
-    <img alt="Instagram" align="left" width="22px" padding:"10" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-  
 <a href="https://www.kaggle.com/ishaanaditya">
     <img alt="Kaggle" align="left" width="22px" padding:"50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
