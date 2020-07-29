@@ -44,3 +44,5 @@ Python | C++ | Arduino | Apps-script
     <img alt="LinkedIn" align="left" width="22px" padding:"50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="ishaan-aditya"><a class="LI-simple-link" href='https://in.linkedin.com/in/ishaan-aditya?trk=profile-badge'>Ishaan Aditya</a></div>
