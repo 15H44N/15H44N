@@ -12,18 +12,6 @@ Python | C++ | Arduino | Apps-script
 | Classification 	| Deep Learning 	| Music Analysis 	| DataViz 	| IoT Data Collection 	|
 |----------------	|---------------	|----------------	|---------	|---------------------	|
 
-### Things I'm Working On
-* A few simple automation projects, such as collecting Data from out Institute's ERP automatically
-* EDA and Predicitive Analysis on Different Kaggle Datasets
-* Music Attribute Analysis on Audio Signals using GTZAN Dataset.
-* Barebones Attendance Tracking System using Google Sheets, Forms and Apps-Script
-
-### Things I'm Learning
-* Deep Learning Modelling using Tensorflow (for now)
-* Business Analytics and Modelling
-* Algorithms in CPP & Python
-* NLP: Basic Sentiment Analysis on Tweets.
-* Classifiers and Reccomender Systems Built around Deep Belief Networks.
 
 ### Say Hello
 <p align="centre">
