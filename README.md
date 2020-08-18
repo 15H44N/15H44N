@@ -9,8 +9,8 @@ I also like to spend wayyy to much time automating random stuff, which is just f
 Python | C++ | Arduino | Apps-script
 | ---    | --- |  ---  | ---
 
-| Classification 	| Deep Learning 	| Music Analysis 	| DataViz 	| IoT Data Collection 	|
-|----------------	|---------------	|----------------	|---------	|---------------------	|
+| Machine Learning 	| Deep Learning 	| Music Analysis 	 	| NLP 	|
+|----------------	|---------------	|----------------		|---------------------	|
 
 
 ### Say Hello
